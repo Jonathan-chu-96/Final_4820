@@ -1,0 +1,3 @@
+final_mental_health.R is the R script that clean the dataset for further usage.
+app.R is the shiny app which is also as  https://jon-chu-0314.shinyapps.io/final_4820/
+mental_health.csv is the clean dataset and the original dataset can be found in Kaggle(https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey?resource=download)
